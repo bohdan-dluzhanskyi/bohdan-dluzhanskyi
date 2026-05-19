@@ -52,6 +52,10 @@ I work with both frontend and backend technologies and enjoy turning ideas into 
 
   <img src="./public/EcoTote demo.gif" width="400"/>
 
+- [Pregnancy Tracker](https://pregnancy-tracker-frontend.vercel.app/) - is a collaborative full-stack web application where I worked as both a frontend and backend developer as part of a team. The project was built using React (Next.js), Node.js, TypeScript, and CSS-module, and deployed on Vercel. I contributed to both client-side and server-side development, including UI implementation, API development, database logic, and integration between frontend and backend.
+
+  <img src="./public/Pregnancy Tracker demo.gif" width="400"/>
+  
 ---
 ## 📣 Languages
 
