@@ -33,6 +33,7 @@ I work with both frontend and backend technologies and enjoy turning ideas into 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" />
 </p>
+
 ---
 
 ## ⚙️ What I do
