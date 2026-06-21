@@ -19,6 +19,7 @@ I work with both frontend and backend technologies and enjoy turning ideas into 
 ---
 
 ## 🚀 Tech Stack
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
@@ -46,7 +47,6 @@ I work with both frontend and backend technologies and enjoy turning ideas into 
 
 ---
 
-
 ## 📂 Projects
 
 - [EcoTote](https://github.com/bohdan-dluzhanskyi/code-chaos-team) - is a collaborative full-stack project where I worked as a team lead, coordinating the development process and managing the team workflow. The project was built using HTML, CSS, JavaScript (TypeScript) and deployed via GitHub Pages. It features a fully responsive design optimized for all devices and screen sizes. As a team lead, I was responsible for project architecture, task distribution, Git workflow management, and integrating different parts of the application.
@@ -56,8 +56,17 @@ I work with both frontend and backend technologies and enjoy turning ideas into 
 - [Pregnancy Tracker](https://pregnancy-tracker-frontend.vercel.app/) - is a collaborative full-stack web application where I worked as both a frontend and backend developer as part of a team. The project was built using React (Next.js), Node.js, TypeScript, and CSS-module, and deployed on Vercel. I contributed to both client-side and server-side development, including UI implementation, API development, database logic, and integration between frontend and backend.
 
   <img src="./public/Pregnancy Tracker demo.gif" width="400"/>
-  
+
 ---
+
+## 💻 Own Projects
+
+- [Developer Service](https://vercel.app) - is a web application and corporate site for an IT development company specializing in custom websites and AI assistants. The project features a fully responsive, pixel-perfect design optimized for all devices with maximum loading speed and SEO optimization. I was responsible for implementing the interactive UI/UX components, clean code architecture, application logic, and integrating client request forms.
+
+  <img src="./public/Developer Service demo.gif" width="400"/>
+
+---
+
 ## 📣 Languages
 
 English - Elementary
