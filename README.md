@@ -61,7 +61,7 @@ I work with both frontend and backend technologies and enjoy turning ideas into 
 
 ## 💻 Own Projects
 
-- [Developer Service]([https://vercel.app](https://developerservice-theta.vercel.app/)) - is a web application and corporate site for an IT development company specializing in custom websites and AI assistants. The project features a fully responsive, pixel-perfect design optimized for all devices with maximum loading speed and SEO optimization. I was responsible for implementing the interactive UI/UX components, clean code architecture, application logic, and integrating client request forms.
+- [Developer Service](https://developerservice-theta.vercel.app/) - is a web application and corporate site for an IT development company specializing in custom websites and AI assistants. The project features a fully responsive, pixel-perfect design optimized for all devices with maximum loading speed and SEO optimization. I was responsible for implementing the interactive UI/UX components, clean code architecture, application logic, and integrating client request forms.
 
   <img src="./public/Developer Service demo.gif" width="400"/>
 
